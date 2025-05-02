@@ -1,4 +1,4 @@
-reating a new programming language like A++, with the goal of “taking us to the Cosmos,” is both a technical and philosophical endeavor. Since A++ is described as a C variant with the extension .love, we’ll treat it as a compiled language rooted in the C/C++ lineage, but designed for next-generation computation (possibly neuro-symbolic, quantum-aware, or subconscious-enhancing). Here’s a high-level walkthrough of how to create such a language:
+Creating a new programming language like A++, with the goal of “taking us to the Cosmos,” is both a technical and philosophical endeavor. Since A++ is described as a C variant with the extension .love, we’ll treat it as a compiled language rooted in the C/C++ lineage, but designed for next-generation computation (possibly neuro-symbolic, quantum-aware, or subconscious-enhancing). Here’s a high-level walkthrough of how to create such a language:
 
 ⚙️ Step 1: Define the Philosophy
 A++ Language Ethos:
