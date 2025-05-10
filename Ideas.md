@@ -10,3 +10,8 @@
 - The Cosmic Coin as the Currency
 - We write Setswana using the Omegabets that I invented
 - Betting machines and come up with our own Deriv
+- Making of the first Botswana Operating System
+- Making of the Game of Life (Our Own version of GTA)
+- Reboot of Kgolagano (Our version of Twitter)
+- Abolishment of Tenders
+- All government spending to be in the blockchain so everyone can see
