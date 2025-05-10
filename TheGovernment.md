@@ -7,4 +7,4 @@
 5. Mining and Its Technologies
 6. Classical Mechanics & Infrasture Development
 7. Business Development & Legal - Kabo Moruti
-7. Defence, Security & Communications x 2
+8. Defence, Security & Communications x 2
