@@ -8,3 +8,4 @@
 - The multidimensional Unit within the BDF, for advanced weaponry like the Omega Humanoid
 - Our Own starlink termed Cosmolink, and the internet termed the Cosmonet -  We remake the BTC
 - The Cosmic Coin as the Currency
+- We write Setswana using the Omegabets that I invented
