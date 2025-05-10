@@ -15,3 +15,6 @@
 - Reboot of Kgolagano (Our version of Twitter)
 - Abolishment of Tenders
 - All government spending to be in the blockchain so everyone can see
+- Legalization and Regulation of Wicthcfrat
+- Introduction of Philosophy of Religion in Schools
+- Annual Mathematics League (Make Mathematics Great Again)
