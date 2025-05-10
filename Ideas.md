@@ -9,3 +9,4 @@
 - Our Own starlink termed Cosmolink, and the internet termed the Cosmonet -  We remake the BTC
 - The Cosmic Coin as the Currency
 - We write Setswana using the Omegabets that I invented
+- Betting machines and come up with our own Deriv
