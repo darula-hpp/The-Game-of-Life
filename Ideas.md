@@ -20,3 +20,4 @@
 - Annual Mathematics League (Make Mathematics Great Again)
 - Establish DOGE - (The deparment of government efficiency)
 - All unemployed University graduates to Join the Military - After a year of no employment
+- Elonism - The Elon Musk Clone company under the state
