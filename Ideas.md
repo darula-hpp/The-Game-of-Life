@@ -18,3 +18,5 @@
 - Legalization and Regulation of Wicthcfrat
 - Introduction of Philosophy of Religion in Schools
 - Annual Mathematics League (Make Mathematics Great Again)
+- Establish DOGE - (The deparment of government efficiency)
+- All unemployed University graduates to Join the Military - After a year of no employment
